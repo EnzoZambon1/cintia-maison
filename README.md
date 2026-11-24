@@ -8,7 +8,7 @@ Criamos em conjunto um site para a loja Cintia Caetano Maison, buscando ampliar 
 
 ## Como utilizar
 
-Para utilizar, basta clicar no link a seguir e você será redirecionado para o site já funcionando: xxxxxxxxxxx
+Para utilizar, basta clicar no link a seguir e você será redirecionado para o site já funcionando: https://enzozambon1.github.io/cintia-maison/
 
 ## Funcionalidades
 
